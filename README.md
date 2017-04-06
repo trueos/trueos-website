@@ -6,6 +6,8 @@ https://www.trueos.org
 
 https://www.sysadm.us
 
+**General Table of Contents**
+
 - [General TrueOS Information](#generalinfo)
 	- [TrueOS Project Documentation](#all-docs)
 		- [TrueOS Handbook](#trueos-docs)
